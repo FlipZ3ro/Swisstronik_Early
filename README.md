@@ -1,9 +1,9 @@
 # Swisstronik Early Bird Program
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+    // SPDX-License-Identifier: MIT
+    pragma solidity ^0.8.0;
 
-contract Register {
+    contract Register {
     string public github;
     address public owner;
     
@@ -27,4 +27,4 @@ contract Register {
     function totalReferrals() public view returns (uint256) {
         return referrals.length;
     }
-}
+    }
