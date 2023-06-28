@@ -11,7 +11,7 @@
 
 ### STEP 1 : Perbarui sistem
 
-#### 1. Go to : https://remix.ethereum.org
+#### Go to : https://remix.ethereum.org
 
  Klik logo + 
 
@@ -19,7 +19,7 @@
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
  </p>
 
-#### 2. Create Workspace 
+#### Create Workspace 
 
  Choose a Tamplate : ERC20
 
@@ -31,7 +31,7 @@
 
  klik OK
 
-#### 3. Create New File 
+#### Create New File 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134700.png">
@@ -87,7 +87,7 @@ Edit : "GITHUB_USERNAME" and YOUR_ADDRESS
 ### 5. Go to Solidity Compiler and Compile your File
 
  <p align="center">
- <img height="250" height="auto" src="[https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134826.png](https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134844.png)">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134844.png">
 
 
  Change Compiler Version: v0.8.0+commit.c7dfd78e
