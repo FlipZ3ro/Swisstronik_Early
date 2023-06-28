@@ -86,6 +86,7 @@ Edit : "GITHUB_USERNAME" and YOUR_ADDRESS
 
 
 Change Compiler Version: v0.8.0+commit.c7dfd78e
+And Klik Compile Register.sol
 
  <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134942.png">
