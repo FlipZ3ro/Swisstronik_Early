@@ -79,4 +79,13 @@ function totalReferrals() public view returns (uint256) {
 ```
 Edit : "GITHUB_USERNAME" and YOUR_ADDRESS
 ```
+### 5. Go to Solidity Compiler and Compile your File
 
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134826.png">
+
+
+Change Compiler Version: v0.8.0+commit.c7dfd78e
+
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134942.png">
