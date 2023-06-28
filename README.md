@@ -9,33 +9,37 @@
 
 [Twitter](https://twitter.com/swisstronik)
 
-### STEP 1 : Deploy in Remix
+### STEP 1 : Perbarui sistem
 
 #### Go to : https://remix.ethereum.org
 
-#### 1. Klik logo + 
+ Klik logo + 
 
-<p align="center">
+ <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
-</p>
+ </p>
 
-#### 2. Create Workspace 
+#### Create Workspace 
 
-<p align="center">
+ Choose a Tamplate : ERC20
+
+ Workspace name : Register
+
+ <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134649.png">
-</p>
+ </p>
 
-klik OK
+ klik OK
 
-#### 3. Create New File 
+#### Create New File 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134700.png">
-</p>
+ </p>
 
-```
-Rename : Register.sol
-```
+ ```
+ Rename : Register.sol
+ ```
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134716.png">
@@ -79,15 +83,34 @@ function totalReferrals() public view returns (uint256) {
 ```
 Edit : "GITHUB_USERNAME" and YOUR_ADDRESS
 ```
+
 ### 5. Go to Solidity Compiler and Compile your File
 
  <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134826.png">
 
 
-Change Compiler Version: v0.8.0+commit.c7dfd78e
-
-And Klik Compile Register.sol
+ Change Compiler Version: v0.8.0+commit.c7dfd78e
 
  <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134942.png">
+
+#### 6. Go to Deploy & Run transactions 
+
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134956.png">
+
+ Change ENVIRONMENT : Injected Provider - Metamask
+
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20135001.png">
+
+ Connect Metamask Wallet and Change Sepolia Test Network 
+
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20135020.png">
+
+ After connect lets klik deploy and confirm transaction
+
+ <p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20135030.png">
