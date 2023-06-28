@@ -1,4 +1,4 @@
-# Swisstronik EARLY BIRD REWARD WORTH $200
+# Swisstronik Early Bird Devs Programs (Deploy Smart Contract)
 
 
 ## Referensi
