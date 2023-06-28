@@ -13,13 +13,13 @@
 
 #### Go to : https://remix.ethereum.org
 
-Klik logo + 
+#### 1. Klik logo + 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
 </p>
 
-#### Create Workspace 
+#### 2. Create Workspace 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134649.png">
@@ -27,7 +27,7 @@ Klik logo +
 
 klik OK
 
-#### Create New File 
+#### 3. Create New File 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134700.png">
