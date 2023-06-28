@@ -1,4 +1,4 @@
-# Swisstronik Early Bird Devs Programs (Deploy Smart Contract)
+# Swisstronik EARLY BIRD REWARD WORTH $200
 
 
 ## Referensi
@@ -9,15 +9,33 @@
 
 [Twitter](https://twitter.com/swisstronik)
 
-### STEP 1 : Perbarui sistem
+### STEP 1 : Deploy in Remix
 
 #### Go to : https://remix.ethereum.org
 
-#### Klik logo + 
+Klik logo + 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
 </p>
-```
+
+#### Create Workspace 
+
+<p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134649.png">
+</p>
+
 klik OK
+
+#### Create New File 
+
+<p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134700.png">
+</p>
+
 ```
+Rename : Register.sol
+```
+
+<p align="center">
+ <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134716.png">
