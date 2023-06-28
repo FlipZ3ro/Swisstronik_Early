@@ -11,7 +11,7 @@
 
 ### STEP 1 : Perbarui sistem
 
-#### Go to : https://remix.ethereum.org
+#### 1. Go to : https://remix.ethereum.org
 
  Klik logo + 
 
@@ -19,7 +19,7 @@
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
  </p>
 
-#### Create Workspace 
+#### 2. Create Workspace 
 
  Choose a Tamplate : ERC20
 
@@ -31,7 +31,7 @@
 
  klik OK
 
-#### Create New File 
+#### 3. Create New File 
 
 <p align="center">
  <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134700.png">
