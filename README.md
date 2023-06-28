@@ -86,6 +86,7 @@ Edit : "GITHUB_USERNAME" and YOUR_ADDRESS
 
 
 Change Compiler Version: v0.8.0+commit.c7dfd78e
+
 And Klik Compile Register.sol
 
  <p align="center">
