@@ -16,7 +16,7 @@
  Klik logo + 
 
  <p align="center">
- <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/Swisstronik_Early/main/Image/Screenshot%202023-06-28%20134618.png">
+ <img height="250" height="auto" src="https://imgur.com/a/v58ACWH">
  </p>
 
 #### Create Workspace 
