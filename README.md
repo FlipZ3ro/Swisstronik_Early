@@ -16,7 +16,7 @@
  Klik logo + 
 
  <p align="center">
- <img height="250" height="auto" src="https://imgur.com/a/v58ACWH">
+ <img height="250" height="auto" src="https://i.imgur.com/0PwrciR.jpg">
  </p>
 
 #### Create Workspace 
